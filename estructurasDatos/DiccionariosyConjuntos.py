@@ -33,4 +33,11 @@ print(interseccion)
 # #eliminar elemento
 # numeros_1.discard(4)
 
+print("========================== modificacion de la rama rene ruiz 001 ==================")
+
+x = 9 
+y = 10 
+
+def sumanumero(x,y):
+    return x + y
 
