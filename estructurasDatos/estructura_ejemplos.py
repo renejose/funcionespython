@@ -41,9 +41,13 @@ print("la cantidad nueva es: ", cantidadElementosNuevos)
 #     print(y)
 
 
-# datostupla = (15,13.9,True,False,"Maria del Rosario",14)
-# datostupla.append("Francisco")
 
+datostupla = (15,13.9,True,False,"Maria del Rosario",14)
+datostupla.append("Francisco")
+print("hola a todos esto es un cambio")
+
+
+print("hola mundo")
 
 
 
